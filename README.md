@@ -4,9 +4,59 @@
 </h1>
 <p align="center">
   <a href="https://github.com/Rogeliogamer/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=soy+estudinate+de+ingenieria.&hearts;++;Ingenieria+en+Sistemas+Computacionales;Tecnologico+de+Saltillo;La+documentación+está+en+proceso">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=soy+estudinate+de+ingenieria.&hearts;++;Ingenieria+en+Sistemas+Computacionales;Tecnologico+de+Saltillo;La+documentación+está+en+proceso...">
   </a>
 </p>
+
+<p align="center">
+  <picture>
+    <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
+  </picture>
+</p>
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+  <table align="center">
+    <tr border="none">
+      <td width="50%" align="center">
+        <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Rogeliogamer&theme=dark&show_icons=true&count_private=true" />
+        <br></br>
+        <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rogeliogamer&theme=dark&hide_border=false" /> 
+      </td>
+      <td width="50%" align="center">
+        <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rogeliogamer&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+      </td>
+    </tr>
+  </table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+  <div align=center>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Rogeliogamer&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+  </div>
+<!--- trophy (start) -->
+</p>        
+<!--- stats (end) -->
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h2 style="display: inline-block">Tecnologías que conozco👨🏻‍💻</h2>
+    </summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,py,html,css,js,postgres,mysql,discord,github,linux,windows,gamemakerstudio,&perline=14" />
+  </a>
+</p>
+
 
 <!--
 **Rogeliogamer/Rogeliogamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
