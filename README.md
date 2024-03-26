@@ -86,5 +86,5 @@
 </div>
 
 <p align = "center">
-	<img src="https://github.com/Rogeliogamer/Rogeliogamer/raw/output/github-contribution-grid-snake.svg?" alt="snake"></center>
+	<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rogeliogamer/Rogeliogamer/output/github-contribution-grid-snake.svg" />
 </p>
