@@ -16,7 +16,7 @@
 <!--Mensaje en movimiento-->
 <p align="center">
   <a href="https://github.com/Rogeliogamer/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=soy+estudinate+de+ingenieria.&hearts;++;Ingenieria+en+Sistemas+Computacionales;Tecnologico+de+Saltillo;La+documentación+está+en+proceso...">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&duration=4000&lines=soy+estudinate+de+ingenieria.&hearts;++;Ingenieria+en+Sistemas+Computacionales;Tecnologico+de+Saltillo;La+documentación+está+en+proceso...">
   </a>
 </p>
 
@@ -86,5 +86,5 @@
 </div>
 
 <p align = "center">
-	<img src="https://github.com/Rogeliogamer/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+	<img src="https://github.com/Rogeliogamer/Rogeliogamer/raw/output/github-contribution-grid-snake.svg?" alt="snake"></center>
 </p>
