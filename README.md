@@ -76,17 +76,15 @@
   </a>
 </p>
 
-<!--
-**Rogeliogamer/Rogeliogamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--h1 sin borde inferior-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h2 style="display: inline-block">🐍 Una serpiente se come mi gráfico de contribuciones</h2>
+    </summary>
+  </ul>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align = "center">
+	<img src="https://github.com/Rogeliogamer/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
