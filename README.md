@@ -80,8 +80,21 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-	    <!--Divizor horizontal (gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+      <!--Divizor horizontal (gradiant)-->
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+      <h2 style="display: inline-block">Spotify Playing 🎧</h2>
+    </summary>
+  </ul> 
+</div>
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/12156038876?si=9426fe95dc6b4752)
+
+<!--h1 sin borde inferior-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <!--Divizor horizontal (gradiant)-->
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
       <h2 style="display: inline-block">🐍 Una serpiente se come mi gráfico de contribuciones</h2>
     </summary>
   </ul>
@@ -112,3 +125,6 @@
 	<a href="https://www.twitch.tv/rogeliogamer2"><img src="https://img.icons8.com/bubbles/50/000000/twitch.png" alt="twitch"/></a>
 	<a href="https://www.tiktok.com/@rogeliogamer0"><img src="https://img.icons8.com/bubbles/50/000000/tiktok.png" alt="tiktok"/></a>
 </div>
+
+* Credit: [Rogeliogamer](https://github.com/Rogeliogamer)
+* Last Edited on: 20/07/202
