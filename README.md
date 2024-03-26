@@ -1,48 +1,66 @@
-<h1 align="center">
-  <b>Hola, soy Rogeliogamer</b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<!--Titulo principal-->
+<!--h1 Sin borde inferior-->
+<div id="user-content-toc">
+  <ul align="center" >
+    <summary>
+      <!--Divizor horizontal (gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+      <!--Titulo-->
+      <h2 style="display: inline-bloc">Hola, soy Rogeliogamer</h2>
+      <!--Divizor horizontal (gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    </summary>
+  </ul> 
+</div>
+
+<!--Mensaje en movimiento-->
 <p align="center">
   <a href="https://github.com/Rogeliogamer/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=soy+estudinate+de+ingenieria.&hearts;++;Ingenieria+en+Sistemas+Computacionales;Tecnologico+de+Saltillo;La+documentación+está+en+proceso...">
   </a>
 </p>
 
+<!--Imagen en movimiento-->
 <p align="center">
   <picture>
     <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
   </picture>
 </p>
 
-<!--- stats & Trophy (start) -->
+<!--Divizor horizontal (gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--- Estadísticas y trofeo (start) -->
 <p align="center">
-  <!--- stats (start) -->
+  <!--- Estadísticas (start) -->
   <table align="center">
     <tr border="none">
       <td width="50%" align="center">
         <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Rogeliogamer&theme=dark&show_icons=true&count_private=true" />
         <br></br>
-        <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rogeliogamer&theme=dark&hide_border=false" /> 
+        <img  title="🔥 Obtén estadísticas de racha para tu perfil en git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rogeliogamer&theme=dark&hide_border=false" /> 
       </td>
       <td width="50%" align="center">
         <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rogeliogamer&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
       </td>
     </tr>
   </table>
-<!--- stats (end) -->
+<!--- Estadísticas (end) -->
 
-<!--- trophy (start) -->
+<!--- Trofeos (start) -->
   <div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Ir a la fuente">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Rogeliogamer&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
   </div>
-<!--- trophy (start) -->
+<!--- Trofeos (end) -->
 </p>        
-<!--- stats (end) -->
+<!--- Estadísticas y trofeo (end) -->
 
+<!--Divizor horizontal (gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
+<!--h1 sin borde inferior-->
 <div id="user-content-toc">
   <ul align="center">
     <summary>
@@ -50,13 +68,13 @@
     </summary>
   </ul>
 </div>
-<!--tech stack icons-->
+
+<!--iconos de pila de tecnología-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,c,cpp,py,html,css,js,postgres,mysql,discord,github,linux,windows,gamemakerstudio,&perline=14" />
   </a>
 </p>
-
 
 <!--
 **Rogeliogamer/Rogeliogamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
