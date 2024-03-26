@@ -1,28 +1,28 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
+# Acción de GitHub para generar un gráfico de contribuciones con una serpiente devorando tus contribuciones.
 name: Generate Snake
 
-# Controls when the action will run.
+# Controla cuándo se ejecutará la acción.
 on:
   schedule:
-      # every 12 hours
+      # cada 12 horas
     - cron: "0 */12 * * *"
 
-  # This command allows us to run the Action automatically from the Actions tab.
+  # Este comando nos permite ejecutar la Acción automáticamente desde la pestaña Acciones.
   workflow_dispatch:
   
-  # Also run on every push on the master branch
+  # También se ejecuta en cada pulsación en la rama maestra.
   push:
     branches:
     - main
 
-# The sequence of runs in this workflow:
+# La secuencia de ejecuciones en este flujo de trabajo:
 jobs:
-  # This workflow contains a single job called "build"
+  # Este flujo de trabajo contiene un único trabajo llamado "build"
   build:
-    # The type of runner that the job will run on
+    # El tipo de corredor en el que se ejecutará el trabajo.
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
+    # Los pasos representan una secuencia de tareas que se ejecutarán como parte del trabajo.
     steps:
       - name: Clone repo
         uses: actions/checkout@v3
@@ -35,7 +35,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=blue&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
