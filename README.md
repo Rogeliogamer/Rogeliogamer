@@ -87,6 +87,28 @@
   </ul>
 </div>
 
+<!--Animacion de serpiente-->
 <p align = "center">
 	<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rogeliogamer/Rogeliogamer/output/github-contribution-grid-snake.svg" />
 </p>
+
+<!--Iconos de contacto-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+	<!--Divizor horizontal (gradiant)-->
+	<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+      <h2 style="display: inline-block">Contacto:</h2>
+    </summary>
+  </ul>
+  <p align="center">
+  	<a href="mailto:rogeliop218@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  	<a href="https://github.com/Rogeliogamer"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/rogelio-perez-guevara-226829194/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/RogelioGamer00"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://instagram.com/rogeliogamer1"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.youtube.com/@RogelioGamer2"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+	<a href="https://x.com/rogeliogamer0"><img src="https://img.icons8.com/bubbles/50/000000/twitter-squared.png" alt="twitter"/></a>
+	<a href="https://www.twitch.tv/rogeliogamer2"><img src="https://img.icons8.com/bubbles/50/000000/twitch.png" alt="twitch"/></a>
+	<a href="https://www.tiktok.com/@rogeliogamer0"><img src="https://img.icons8.com/bubbles/50/000000/tiktok.png" alt="tiktok"/></a>
+</div>
