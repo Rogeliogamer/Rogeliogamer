@@ -120,7 +120,7 @@
 ### 🎧 Lo que estoy escuchando
 <div align="center">
   <a href="https://github.com/Rogeliogamer">
-    <img src="https://rogelio-music-qyimjrhww-rogelios-projects-929e17b1.vercel.app/api/spotify?background_color=0d1117&bar_color=53b14f&cache_bust=final_v1" alt="Spotify Now Playing" width="350" />
+    <img src="https://rogelio-music-1c9ccea1x-rogelios-projects-929e17b1.vercel.app/api/spotify?background_color=0d1117&bar_color=53b14f&fix=xml" alt="Spotify Now Playing" width="350" />
   </a>
 </div>
 
