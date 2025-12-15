@@ -118,9 +118,11 @@
 </div>
 
 ### 🎧 Escuchando ahora
-<a href="https://github.com/Rogeliogamer">
- <img src="https://spotify-github-profile-pjouskrks-rogelios-projects-929e17b1.vercel.app/api/spotify?background_color=0d1117&bar_color=53b14f&t=12345" alt="Spotify Now Playing" width="350" />
-</a>
+<div align="center">
+  <a href="https://github.com/Rogeliogamer">
+    <img src="https://spotify-github-profile-qardcshn1-rogelios-projects-929e17b1.vercel.app/api/spotify?background_color=0d1117&bar_color=53b14f&refresh=xml_fix" alt="Spotify Now Playing" width="350" />
+  </a>
+</div>
 
 * Credit: [Rogeliogamer](https://github.com/Rogeliogamer)
 * Last Edited on: 20/07/2024
