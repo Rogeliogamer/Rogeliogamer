@@ -120,7 +120,7 @@
 ### 🎧 Escuchando ahora
 <div align="center">
   <a href="https://github.com/Rogeliogamer">
-    <img src="https://spotify-github-profile-m3ssrx20p-rogelios-projects-929e17b1.vercel.app/api/spotify?test=1" alt="Spotify Now Playing" width="350" />
+    <img src="https://spotify-github-profile-9br9coc8i-rogelios-projects-929e17b1.vercel.app/api/spotify?background_color=0d1117&bar_color=53b14f&size=small" alt="Spotify Now Playing" width="350" />
   </a>
 </div>
 
