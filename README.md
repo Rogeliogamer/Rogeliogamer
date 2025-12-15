@@ -117,15 +117,10 @@
 	<a href="https://www.tiktok.com/@rogeliogamer0"><img src="https://img.icons8.com/bubbles/50/000000/tiktok.png" alt="tiktok"/></a>
 </div>
 
-### 🎧 Lo que estoy escuchando
-<div align="center">
-  <a href="https://open.spotify.com/user/rogeliogamer">
-    <img src="https://spotify-github-profile-pjouskrks-rogelios-projects-929e17b1.vercel.app/api/spotify?background_color=0d1117&bar_color=53b14f&bar_color_cover=false&unique=1&file=.svg" alt="Spotify Now Playing" width="350" />
-  </a>
-</div>
-
-### 🎧 Lo que estoy escuchando
-![Spotify Now Playing](https://spotify-github-profile-pjouskrks-rogelios-projects-929e17b1.vercel.app/api/spotify?background_color=0d1117&bar_color=53b14f&bar_color_cover=false&file=.svg)
+### 🎧 Escuchando ahora
+<a href="https://github.com/Rogeliogamer">
+ <img src="https://spotify-github-profile-pjouskrks-rogelios-projects-929e17b1.vercel.app/api/spotify?background_color=0d1117&bar_color=53b14f&t=12345" alt="Spotify Now Playing" width="350" />
+</a>
 
 * Credit: [Rogeliogamer](https://github.com/Rogeliogamer)
 * Last Edited on: 20/07/2024
