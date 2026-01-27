@@ -111,11 +111,15 @@
 
 <h3 align="center">🎧 Lo que estoy escuchando</h3>
 <div align="center">
+  <!-- Mensaje de error para widget de spotify 
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
   <br>
   <code>🚧 Widget de música en reparación 🚧</code>
-  
-  </div>
+  -->
+  <a href="https://github.com/Rogeliogamer">
+    <img src="https://rogelio-music-api.vercel.app/api/spotify?background_color=0d1117&bar_color=00FBFF&bar_color_cover=false" alt="Spotify Now Playing" width="350" />
+  </a>
+</div>
 
 * Credit: [Rogeliogamer](https://github.com/Rogeliogamer)
 * Last Edited on: 26/01/2026
