@@ -99,7 +99,7 @@
     <summary>
       <!--Divizor horizontal (gradiant)-->
       <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-      <h2 style="display: inline-block">🐍 Una serpiente se come mi gráfico de contribuciones</h2>
+      <h2 style="display: inline-block">Historial de Contribuciones 🐍</h2>
     </summary>
   </ul>
 </div>
