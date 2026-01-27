@@ -1,42 +1,83 @@
 <!--Titulo principal-->
 <!--h1 Sin borde inferior-->
 <div id="user-content-toc">
-  <ul align="center" >
+  <ul align="center" style="list-style-type: none;">
     <summary>
       <!--Divizor horizontal (gradiant)-->
       <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
       <!--Titulo-->
-      <h2 style="display: inline-bloc">Visitante</h2>
-      <br>
-      <img src="https://profile-counter.glitch.me/Rogeliogamer/count.svg">
-      <br>
-      <h2 style="display: inline-bloc">Hola, soy Rogeliogamer</h2>
+      <h2 style="display: inline-block">Rogelio Perez Guevara</h2>
       <!--Divizor horizontal (gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+	  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     </summary>
   </ul> 
 </div>
 
 <!--Mensaje en movimiento-->
 <p align="center">
-  <a href="https://github.com/Rogeliogamer/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&duration=4000&lines=soy+estudinate+de+ingenieria.&hearts;++;Ingenieria+en+Sistemas+Computacionales;Tecnologico+de+Saltillo;La+documentación+está+en+proceso...">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FBFF&size=25&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Ingeniero+en+Sistemas+Computacionales;Especialidad+en+Tecnologías+Emergentes;La+disciplina+convierte+el+código+en+soluciones.;Orden+en+el+proceso,+calidad+en+la+entrega.">
   </a>
 </p>
 
-<!--Imagen en movimiento-->
+<div id="user-content-toc">
+  <ul align="center" style="list-style-type: none;">
+    <summary>
+      <h2 style="display: inline-block">Acerca de mí 👨🏻‍💻</h2>
+    </summary>
+  </ul>
+</div>
+
+### Ingeniero en Sistemas Computacionales | Tecnologías Emergentes
+* **Perfil Profesional:** Especializado en **Desarrollo Full-Stack** y **Cloud Computing**. Enfocado en la transición de procesos analógicos a ecosistemas digitales de alta eficiencia, como lo realizado en mi etapa con la **SEFIRC**.
+* **🌼 En ejecución y arquitectura:**
+    * **Google Cloud Platform:** Aplicando conocimientos en *Network Security*, *Load Balancing* y despliegue de aplicaciones en entornos reales.
+    * **AWS Cloud:** Implementando servicios de infraestructura (Capa Gratuita) para escalar proyectos personales y optimizar servicios web.
+    * **Frameworks & Web:** Desarrollo de soluciones robustas utilizando **Java** y **C#**, junto con la modernización de sistemas en **ColdFusion** y arquitecturas de red seguras.
+* **Filosofía de Trabajo:** "La disciplina convierte el código en soluciones". Aplico el rigor y la constancia de la **Banda de Guerra** 🎺 para entregar software de alta calidad y procesos ordenados.
+* **Fuera de la tecnología:** Disfruto de la estrategia en los **Videojuegos** 🎮, explorar nuevos lugares y soy un entusiasta del buen Té ☕.
+
+<div id="user-content-toc">
+  <ul align="center" style="list-style-type: none;">
+    <summary>
+      <h2 style="display: inline-block">Stack Tecnológico 🛠️</h2>
+    </summary>
+  </ul>
+</div>
+
 <p align="center">
-  <picture>
-    <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
-  </picture>
+  <b>Lenguajes</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,cpp,c,py,php&perline=6" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Base de Datos</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=3" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Cloud, OS & DevOps</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,aws,docker,linux,windows,androidstudio,bash,powershell&perline=8" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Herramientas & Diseño</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,netbeans,postman,arduino,blender,figma,discord&perline=9" />
+  </a>
 </p>
 
 <!--Divizor horizontal (gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--- Estadísticas y trofeo (start) -->
+<!--- Estadísticas (start) -->
 <p align="center">
-  <!--- Estadísticas (start) -->
   <table align="center">
     <tr border="none">
       <td width="50%" align="center">
@@ -49,36 +90,8 @@
       </td>
     </tr>
   </table>
+</p> 
 <!--- Estadísticas (end) -->
-
-<!--- Trofeos (start) -->
-  <div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Ir a la fuente">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Rogeliogamer&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-  </div>
-<!--- Trofeos (end) -->
-</p>        
-<!--- Estadísticas y trofeo (end) -->
-
-<!--Divizor horizontal (gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 sin borde inferior-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">Tecnologías que conozco👨🏻‍💻</h2>
-    </summary>
-  </ul>
-</div>
-
-<!--iconos de pila de tecnología-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,py,html,css,js,postgres,mysql,discord,github,linux,windows,gamemakerstudio,&perline=14" />
-  </a>
-</p>
 
 <!--h1 sin borde inferior-->
 <div id="user-content-toc">
@@ -96,33 +109,13 @@
 	<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rogeliogamer/Rogeliogamer/output/github-contribution-grid-snake.svg" />
 </p>
 
-<!--Iconos de contacto-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-	<!--Divizor horizontal (gradiant)-->
-	<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-      <h2 style="display: inline-block">Contacto:</h2>
-    </summary>
-  </ul>
-  <p align="center">
-  	<a href="mailto:rogeliop218@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-  	<a href="https://github.com/Rogeliogamer"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/rogelio-perez-guevara-226829194/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/RogelioGamer00"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/rogeliogamer1"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/@RogelioGamer2"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-	<a href="https://x.com/rogeliogamer0"><img src="https://img.icons8.com/bubbles/50/000000/twitter-squared.png" alt="twitter"/></a>
-	<a href="https://www.twitch.tv/rogeliogamer2"><img src="https://img.icons8.com/bubbles/50/000000/twitch.png" alt="twitch"/></a>
-	<a href="https://www.tiktok.com/@rogeliogamer0"><img src="https://img.icons8.com/bubbles/50/000000/tiktok.png" alt="tiktok"/></a>
-</div>
-
-### 🎧 Lo que estoy escuchando
+<h3 align="center">🎧 Lo que estoy escuchando</h3>
 <div align="center">
-  <a href="https://github.com/Rogeliogamer">
-    <img src="https://rogelio-music-3p6xjwqp1-rogelios-projects-929e17b1.vercel.app/api/spotify?background_color=0d1117&bar_color=53b14f&v=fast_text" alt="Spotify Now Playing" width="350" />
-  </a>
-</div>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
+  <br>
+  <code>🚧 Widget de música en reparación 🚧</code>
+  
+  </div>
 
 * Credit: [Rogeliogamer](https://github.com/Rogeliogamer)
-* Last Edited on: 20/07/2024
+* Last Edited on: 26/01/2026
